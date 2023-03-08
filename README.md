@@ -2,7 +2,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=qdlc13&show_icons=true&theme=dark&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qdlc13&theme=dark&layout=compact)
-![](https://activity-graph.herokuapp.com/graph?username=你的Github用户名&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=qdlc13&theme=github)
 
 
 <!--
