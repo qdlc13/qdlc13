@@ -2,7 +2,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=qdlc13&show_icons=true&theme=dark&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qdlc13&theme=dark&layout=compact)
-![](https://activity-graph.herokuapp.com/graph?username=qdlc13&theme=github)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
